@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Michael Lancaster',
 
   // open graph metadata (optional)
-  description: 'ML\'s Portfolio',
+  description: "ML's Portfolio",
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
