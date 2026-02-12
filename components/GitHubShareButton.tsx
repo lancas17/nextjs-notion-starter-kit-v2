@@ -10,12 +10,12 @@ export function GitHubShareButton() {
       aria-label='View source on GitHub'
     >
       <svg
-        width='80'
-        height='80'
+        width='40'
+        height='40'
         viewBox='0 0 250 250'
         style={{
-          fill: '#70B7FD',
-          color: '#fff',
+          fill: '#ccc',
+          color: '#444',
           position: 'absolute',
           zIndex: 1001,
           top: 0,
